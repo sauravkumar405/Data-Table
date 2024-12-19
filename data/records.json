@@ -1,0 +1,72 @@
+[
+  {
+    "gender": "Female",
+    "name": "Ananya Sharma",
+    "address": "Flat 24B, Green Towers",
+    "mobile": "9876543210",
+    "age": "25"
+  },
+  {
+    "gender": "Male",
+    "name": "Rohit Verma",
+    "address": "Villa 56, Orchid Valley",
+    "mobile": "9801234567",
+    "age": "30"
+  },
+  {
+    "gender": "Female",
+    "name": "Priya Singh",
+    "address": "Block A-12, Sunrise Apartments",
+    "mobile": "9123456780",
+    "age": "28"
+  },
+  {
+    "gender": "Male",
+    "name": "Aditya Chauhan",
+    "address": "House Number 150, Lakeview Residency",
+    "mobile": "8899776655",
+    "age": "45"
+  },
+  {
+    "gender": "Female",
+    "name": "Megha Kapoor",
+    "address": "Penthouse 3, Sky High Towers",
+    "mobile": "9811122233",
+    "age": "35"
+  },
+  {
+    "gender": "Male",
+    "name": "Arjun Rao",
+    "address": "House 7, Riverview Estate",
+    "mobile": "9009988776",
+    "age": "40"
+  },
+  {
+    "gender": "Female",
+    "name": "Sana Iqbal",
+    "address": "Suite 5C, City Center Plaza",
+    "mobile": "9911556688",
+    "age": "33"
+  },
+  {
+    "gender": "Male",
+    "name": "Vikas Nair",
+    "address": "Cottage 14, Mountain View",
+    "mobile": "9200345678",
+    "age": "50"
+  },
+  {
+    "gender": "Female",
+    "name": "Nidhi Joshi",
+    "address": "Apartment 301, Maple Residency",
+    "mobile": "9099876543",
+    "age": "22"
+  },
+  {
+    "gender": "Male",
+    "name": "Rahul Malhotra",
+    "address": "Flat 8A, Sunshine Apartments",
+    "mobile": "9898989898",
+    "age": "37"
+  }
+]
